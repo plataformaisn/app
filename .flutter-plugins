@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/juulhao/.pub-cache/hosted/pub.dev/cloud_firestore-4.7.0/
+cloud_firestore_web=/Users/juulhao/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.5.0/
+firebase_auth=/Users/juulhao/.pub-cache/hosted/pub.dev/firebase_auth-4.6.0/
+firebase_auth_web=/Users/juulhao/.pub-cache/hosted/pub.dev/firebase_auth_web-5.5.0/
+firebase_core=/Users/juulhao/.pub-cache/hosted/pub.dev/firebase_core-2.12.0/
+firebase_core_web=/Users/juulhao/.pub-cache/hosted/pub.dev/firebase_core_web-2.5.0/
+google_sign_in=/Users/juulhao/.pub-cache/hosted/pub.dev/google_sign_in-6.1.4/
+google_sign_in_android=/Users/juulhao/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.15/
+google_sign_in_ios=/Users/juulhao/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.6.2/
+google_sign_in_web=/Users/juulhao/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.0+2/
+pay=/Users/juulhao/.pub-cache/hosted/pub.dev/pay-1.1.1/
+pay_android=/Users/juulhao/.pub-cache/hosted/pub.dev/pay_android-1.0.10/
+pay_ios=/Users/juulhao/.pub-cache/hosted/pub.dev/pay_ios-1.0.8/
+sign_in_with_apple=/Users/juulhao/.pub-cache/hosted/pub.dev/sign_in_with_apple-4.3.0/
+sign_in_with_apple_web=/Users/juulhao/.pub-cache/hosted/pub.dev/sign_in_with_apple_web-1.0.1/

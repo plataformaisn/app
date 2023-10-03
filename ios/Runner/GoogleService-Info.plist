@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>223795307087-t6a5938tuvnmvu9fd0id76uiaib531ag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.223795307087-t6a5938tuvnmvu9fd0id76uiaib531ag</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>223795307087-cs0u8i07egnpjaaa24rf97khi267i2jf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCx5-dDFwxJHkP7otFsWa7OZCB2HkoTnoU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>223795307087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appJogo</string>
+	<key>PROJECT_ID</key>
+	<string>app-issoneumjogo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-issoneumjogo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:223795307087:ios:888fed3822ef9f49a2403a</string>
+</dict>
+</plist>
