@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.app_jogo.app-mergeDebugResources-17:/values-fil/values-fil.xml",
+            "map": [
+                {
+                    "source": "/Users/juulhao/.gradle/caches/transforms-3/f597315d9c2a5ae1f4f3e2f65cd94364/transformed/jetified-play-services-wallet-18.1.2/res/values-fil/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "203",
+                        "endColumns": "107",
+                        "endOffsets": "310"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "111",
+                        "endOffsets": "162"
+                    }
+                }
+            ]
+        }
+    ]
+}

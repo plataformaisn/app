@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "223795307087",
+    "project_id": "app-issoneumjogo",
+    "storage_bucket": "app-issoneumjogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223795307087:android:5cfe26029969e2bea2403a",
+        "android_client_info": {
+          "package_name": "com.example.app_jogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223795307087-cs0u8i07egnpjaaa24rf97khi267i2jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_jogo",
+            "certificate_hash": "2ee51ce18a9dccb5d8b28546c7bf702faa0d1b1d"
+          }
+        },
+        {
+          "client_id": "223795307087-vh6gqp1suoqsm9a02jipuekplu1sk1ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaUwYYF3x0ctYN1vce5Zc7AA-0q4QbhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223795307087-vh6gqp1suoqsm9a02jipuekplu1sk1ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223795307087-i87cv67p1jto229rc5qoqteo83tbr6b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app-thisisnotagame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

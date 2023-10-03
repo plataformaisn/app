@@ -1,0 +1,23 @@
+{
+    "provider": "apple_pay",
+    "data": {
+      "merchantIdentifier": "merchant.com.example.appJogo", 
+      "displayName": "Isso nao é um jogo v2",
+      "merchantCapabilities": [
+        "3DS",
+        "debit",
+        "credit"
+      ],
+      "supportedNetworks": [
+        "amex",
+        "visa",
+        "discover",
+        "masterCard"
+      ],
+      "countryCode": "BR",
+      "currencyCode": "BRL",
+      "requiredBillingContactFields": null, 
+      "requiredShippingContactFields": null
+    }
+  }
+  
